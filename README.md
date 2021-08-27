@@ -1,6 +1,6 @@
 # BERT Embeddings for Automatic Readability Assessment
 
-This repository contains the script for extracting BERT embeddings for a corpus of text documents for the automatic readability assessment task (ARA) used in the paper [Knowledge-Rich BERT Embeddings for Readability Assessment](https://arxiv.org/abs/2106.07935) accepted at RANLP 2021. 
+This repository contains the script for extracting BERT embeddings for a corpus of text documents for the automatic readability assessment task (ARA) used in the paper [BERT Embeddings for Automatic Readability Assessment](https://arxiv.org/abs/2106.07935) accepted at RANLP 2021. 
 
 The script is in Python notebook and can be run seamlessly in Google Colab. The code is also verbose and will walk you through each step. 
 
