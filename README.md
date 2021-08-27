@@ -9,7 +9,7 @@ If you are going to use the code, please cite the paper:
 
 ```
 @article{imperial2021knowledge,
-  title={Knowledge-Rich BERT Embeddings for Readability Assessment},
+  title={BERT Embeddings for Automatic Readability Assessment},
   author={Imperial, Joseph Marvin},
   journal={arXiv preprint arXiv:2106.07935},
   year={2021}
